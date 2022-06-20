@@ -8,7 +8,7 @@ Framework to create & apply presets to UnityEngine.Object at runtime
 - Components can't be serialized to JSON
 
 # Solution
-- hardcode preset system, with predefined properties, based on:
+- hardcode preset system, with predefined properties (no Reflection), based on:
 - - C#-classes for ability to Serialize Objects to one JSON
 - - ScriptableObjects for Shared state between Scenes , Prefabs etc
 
