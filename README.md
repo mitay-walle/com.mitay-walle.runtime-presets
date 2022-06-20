@@ -1,4 +1,4 @@
-# Runtime Presets
+# Unity3d Runtime Presets
 Framework to create & apply presets to UnityEngine.Object at runtime
 
 ![](https://github.com/mitay-walle/com.mitay-walle.runtime-presets/blob/master/Documentation/AudioSourcePreset_inspector.png)
@@ -13,5 +13,6 @@ Framework to create & apply presets to UnityEngine.Object at runtime
 - - C#-classes for ability to Serialize Objects to one JSON
 - - ScriptableObjects for Shared state between Scenes , Prefabs etc
 
-# Summary
-
+# Predefined presets included
+- RectTransform
+- AudioSource
