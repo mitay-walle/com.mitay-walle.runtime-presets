@@ -10,8 +10,8 @@ Framework to create & apply presets to UnityEngine.Object at runtime
 
 # Solution
 - hardcode preset system, with predefined properties (no Reflection), based on:
-- - C#-classes for ability to Serialize Objects to one JSON
-- - ScriptableObjects for Shared state between Scenes , Prefabs etc
+- - C#-classes to Serialize multiplie objects to one JSON
+- - ScriptableObjects for Shared state between Scenes, Prefabs etc
 
 # Predefined presets included
 - RectTransform
