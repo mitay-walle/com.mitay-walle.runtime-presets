@@ -3,8 +3,8 @@ Framework to create & apply presets to UnityEngine.Object at runtime
 
 # Problems
 - sharing properties between multiplie Built-in Objects is impossible
-- Built-in Presets system is Editor-only
-- RectTransform prefab-overrides appear, may brake retweaked layout properties
+- Built-in Presets system ![is Editor-only](https://docs.unity3d.com/Manual/Presets.html)
+- ![RectTransform prefab-overrides appearing](https://forum.unity.com/threads/some-properties-of-recttransform-always-appear-in-prefabs-overrides-inspector.601870/), that may brake retweaked layout properties 
 - Components can't be serialized to JSON
 
 # Solution
