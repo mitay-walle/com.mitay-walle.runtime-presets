@@ -1,6 +1,7 @@
 # Runtime Presets
 Framework to create & apply presets to UnityEngine.Object at runtime
 
+![](https://github.com/mitay-walle/com.mitay-walle.runtime-presets/blob/master/Documentation/AudioSourcePreset_inspector.png)
 # Problems
 - sharing properties between multiplie Built-in Objects is impossible
 - Built-in Presets system ![is Editor-only](https://docs.unity3d.com/Manual/Presets.html)
