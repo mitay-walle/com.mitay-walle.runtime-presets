@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3d7d3b9ca994aeb8960826e9344d78d, type: 3}
+  m_Name: Audio Source Preset
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  outputAudioMixerGroup: {fileID: 0}
+  volume: 0
+  pitch: 0
+  loop: 0
+  playOnAwake: 0
+  spatialBlend: 0
+  minDistance: 2
+  maxDistance: 30
+  Rolloff:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  SpreadCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  "SpatialBlend\u0421urve":
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  "ReverbZoneMix\u0421urve":
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  rolloffMode: 2
+  panStereo: 0
+  spread: 60
+  dopplerLevel: 0
+  spatializePostEffects: 0
+  velocityUpdateMode: 2
+  spatialize: 0
+  reverbZoneMix: 0
+  bypassEffects: 0
+  bypassListenerEffects: 0
+  bypassReverbZones: 0
+  priority: 128
+  mute: 0
